@@ -1,4 +1,6 @@
-  
+name: CI-CD
+env:
+  EB_PACAGE_S3_BACKET_NAME: "maestrto69"
   EB_APLICATION_NAME      : "My-OMV"
   EB_ENVIRONMENT_NAME     : "MyOmv-env"
   AWS_REGION_NAME         : "us-east-2"
